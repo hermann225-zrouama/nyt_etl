@@ -1,0 +1,68 @@
+uri,name,value,rank,major
+nyt://article/f586fc83-d662-569a-9105-9db90693f42c,subject,Economics (Theory and Philosophy),1,N
+nyt://article/f586fc83-d662-569a-9105-9db90693f42c,subject,internal-sub-only-nl,2,N
+nyt://article/f586fc83-d662-569a-9105-9db90693f42c,subject,Social Security (US),3,N
+nyt://article/f586fc83-d662-569a-9105-9db90693f42c,subject,Pensions and Retirement Plans,4,N
+nyt://article/f586fc83-d662-569a-9105-9db90693f42c,subject,Payroll Tax,5,N
+nyt://article/f586fc83-d662-569a-9105-9db90693f42c,subject,Retirement,6,N
+nyt://article/e26af308-d140-5d47-9214-24a2a26ec94c,subject,Corporate Social Responsibility,1,N
+nyt://article/e26af308-d140-5d47-9214-24a2a26ec94c,subject,Bankruptcies,2,N
+nyt://article/e26af308-d140-5d47-9214-24a2a26ec94c,subject,Virtual Currency,3,N
+nyt://article/e26af308-d140-5d47-9214-24a2a26ec94c,subject,Computers and the Internet,4,N
+nyt://article/e26af308-d140-5d47-9214-24a2a26ec94c,organizations,HK FTX Trading Ltd (Futures Exchange),5,N
+nyt://article/e26af308-d140-5d47-9214-24a2a26ec94c,persons,"Singh, Nishad",6,N
+nyt://article/e26af308-d140-5d47-9214-24a2a26ec94c,persons,"Bankman-Fried, Sam",7,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,subject,Documentary Films and Programs,1,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,subject,International Relations,2,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,subject,Writing and Writers,3,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,subject,Content Type: Personal Profile,4,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,subject,Russian Invasion of Ukraine (2022),5,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,persons,"Levy, Bernard-Henri",6,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,glocations,Ukraine,7,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,glocations,France,8,N
+nyt://article/5b030b39-59eb-51da-86d8-006af71d3b55,creative_works,Slava Ukraini (Movie),9,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,subject,Book Trade and Publishing,1,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,organizations,Bertelsmann AG,2,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,organizations,Penguin Random House,3,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,organizations,Simon & Schuster Inc,4,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,persons,"McIntosh, Madeline",5,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,persons,"Dohle, Markus",6,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,persons,"Dillon, Sanyu",7,N
+nyt://article/b6fea8c5-9287-5765-b74e-6d3c05936c61,persons,"Malaviya, Nihar",8,N
+nyt://article/78f0787e-fc0d-5b64-b994-629a33f29aef,subject,Restaurants,1,N
+nyt://article/78f0787e-fc0d-5b64-b994-629a33f29aef,subject,Fast Food Industry,2,N
+nyt://article/78f0787e-fc0d-5b64-b994-629a33f29aef,subject,Consumer Behavior,3,N
+nyt://article/78f0787e-fc0d-5b64-b994-629a33f29aef,subject,Customer Loyalty Programs,4,N
+nyt://article/78f0787e-fc0d-5b64-b994-629a33f29aef,organizations,Chipotle Mexican Grill Inc,5,N
+nyt://article/78f0787e-fc0d-5b64-b994-629a33f29aef,organizations,Dunkin Donuts,6,N
+nyt://article/78f0787e-fc0d-5b64-b994-629a33f29aef,organizations,Starbucks Corporation,7,N
+nyt://article/fd0ca6f4-fb06-5aa7-adbe-28a864154b0b,subject,Robberies and Thefts,1,N
+nyt://article/fd0ca6f4-fb06-5aa7-adbe-28a864154b0b,subject,Banking and Financial Institutions,2,N
+nyt://article/fd0ca6f4-fb06-5aa7-adbe-28a864154b0b,subject,Bank Robberies,3,N
+nyt://article/fd0ca6f4-fb06-5aa7-adbe-28a864154b0b,glocations,Lebanon,4,N
+nyt://article/fd0ca6f4-fb06-5aa7-adbe-28a864154b0b,glocations,Beirut (Lebanon),5,N
+nyt://article/fd0ca6f4-fb06-5aa7-adbe-28a864154b0b,subject,your-feed-opinionvideo,6,N
+nyt://video/af59fa73-9a8d-5da2-be9b-b0b0d6a34cfe,subject,Robberies and Thefts,1,N
+nyt://video/af59fa73-9a8d-5da2-be9b-b0b0d6a34cfe,subject,Bank Robberies,2,N
+nyt://video/af59fa73-9a8d-5da2-be9b-b0b0d6a34cfe,subject,Banking and Financial Institutions,3,N
+nyt://video/af59fa73-9a8d-5da2-be9b-b0b0d6a34cfe,subject,Economic Conditions and Trends,4,N
+nyt://video/af59fa73-9a8d-5da2-be9b-b0b0d6a34cfe,glocations,Lebanon,5,N
+nyt://video/af59fa73-9a8d-5da2-be9b-b0b0d6a34cfe,subject,your-feed-opinionvideo,6,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,organizations,Supreme Court of Israel,1,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,subject,Israeli Settlements,2,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,subject,Palestinians,3,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,persons,"Barak, Ehud",4,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,persons,"Netanyahu, Benjamin",5,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,organizations,Jewish Home Party (Israel),6,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,organizations,Mossad,7,N
+nyt://article/3e5f38a9-f5cf-5650-8466-9a5f5918fbb7,glocations,Israel,8,N
+nyt://article/8314e7a1-a7bf-54fc-946f-6c41e7a21169,glocations,New York City,1,N
+nyt://article/8314e7a1-a7bf-54fc-946f-6c41e7a21169,subject,internal-storyline-no,2,N
+nyt://article/8314e7a1-a7bf-54fc-946f-6c41e7a21169,subject,United States Politics and Government,3,N
+nyt://article/8314e7a1-a7bf-54fc-946f-6c41e7a21169,organizations,Republican Party,4,N
+nyt://article/8314e7a1-a7bf-54fc-946f-6c41e7a21169,persons,"Pence, Mike",5,N
+nyt://article/8314e7a1-a7bf-54fc-946f-6c41e7a21169,glocations,Manhattan (NYC),6,N
+nyt://article/7cb08bfb-ffad-5d1c-a3c5-1ec3d90a75ef,glocations,Hong Kong,1,N
+nyt://article/7cb08bfb-ffad-5d1c-a3c5-1ec3d90a75ef,subject,Masks,2,N
+nyt://article/7cb08bfb-ffad-5d1c-a3c5-1ec3d90a75ef,subject,Coronavirus (2019-nCoV),3,N
+nyt://article/7cb08bfb-ffad-5d1c-a3c5-1ec3d90a75ef,persons,"Lee, John (1957- )",4,N
