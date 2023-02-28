@@ -30,7 +30,7 @@ Un ETL (Extract - Transform - Load ) est un processus qui permet de collecter le
 - requirements.txt: fichier contenant les dépendances du projet
 - webserver_config.py: fichier de configuration de l'interface web de airflow
 
-# Comment Run de l'application ?
+# Comment Run l'application ?
 
 * 1- pour ce faire veuillez exécuter au dossier racine du projet la commande *docker build --rm -t docker_airflow:latest .* 
 * 2- puis exécuter la commande *docker-compose up -d* pour lancer l'application
