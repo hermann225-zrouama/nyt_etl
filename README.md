@@ -4,21 +4,21 @@ Un ETL (Extract - Transform - Load ) est un processus qui permet de collecter le
 
 # Arborescence du projet
 
-- ├── Dockerfile
-- ├── README.md
-- ├── airflow.cfg
-- ├── dags
-- │   ├── dag.py
-- │   └── scripts
-- ├── data
-- │   ├── author_data.csv
-- │   ├── keyword_data.csv
-- │   ├── nyt_economy.parquet
-- │   └── nyt_economy_brute.csv
-- ├── docker-compose.yml
-- ├── entrypoint.sh
-- ├── requirements.txt
-- └── webserver_config.py
+├── Dockerfile
+├── README.md
+├── airflow.cfg
+├── dags
+│   ├── dag.py
+│   └── scripts
+├── data
+│   ├── author_data.csv
+│   ├── keyword_data.csv
+│   ├── nyt_economy.parquet
+│   └── nyt_economy_brute.csv
+├── docker-compose.yml
+├── entrypoint.sh
+├── requirements.txt
+└── webserver_config.py
 
 - airflow.cfg: fichier de configuration de airflow
 - dags: dossier contenant les DAGs
